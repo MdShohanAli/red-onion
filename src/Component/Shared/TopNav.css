@@ -1,0 +1,22 @@
+.font-icon {
+    font-size: 18px;
+    margin-right: 37px;
+    color: black;
+}
+
+.nav-item {
+    font-size: 18px;
+    margin-right: 27px;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+}
+
+.nav-btn {
+    width: 105px;
+    height: 35px;
+    background: #fa4c6e;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}

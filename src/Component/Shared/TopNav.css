@@ -14,9 +14,18 @@
 
 .nav-btn {
     width: 105px;
-    height: 35px;
-    background: #fa4c6e;
+    height: 40px;
+    background: #ff5a7b;
     border: none;
     border-radius: 20px;
     color: white;
+}
+
+@media (max-width: 575.98px) {
+    .small-nav {
+        margin-left: 25px;
+        margin-right: 25px;
+
+    }
+
 }

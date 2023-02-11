@@ -1,14 +1,15 @@
 import React from 'react';
 import './Home.css';
+import background from '../../../images/bannerbackground.png'
 
 
 const Home = () => {
     return (
-        <div className='contain' >
+        <div>
             <div style={{
-                backgroundImage: `url(${process.env.PUBLIC_URL = "/public/bannerbackground.png"})`,
+                backgroundImage: `url(${background})`,
+                backgroundSize: 'cover',
                 backgroundRepeat: 'no-repeat',
-                backgroundSize: 'cover'
             }} className='header-part mt-2 img-fluid'>
 
 
@@ -19,6 +20,8 @@ const Home = () => {
                 </div>
 
             </div>
+
+
 
         </div>
     );

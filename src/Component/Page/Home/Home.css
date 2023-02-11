@@ -37,13 +37,12 @@
 
 @media (max-width: 575.98px) {
     .header-part {
-        display: flex;
-        justify-content: start;
+
         margin-left: 15px;
         padding: 0px;
         width: 360px;
         height: 120px;
-        /* margin-top: 200px; */
+
     }
 
     .search-container {

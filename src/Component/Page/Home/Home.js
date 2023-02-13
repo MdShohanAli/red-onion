@@ -1,6 +1,7 @@
 import React from 'react';
 import './Home.css';
 import background from '../../../images/bannerbackground.png'
+import MiddleNav from '../../Shared/MiddleNav/MiddleNav';
 
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
                 </div>
 
             </div>
+            <MiddleNav></MiddleNav>
 
 
 

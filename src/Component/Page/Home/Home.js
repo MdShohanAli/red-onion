@@ -2,6 +2,8 @@ import React from 'react';
 import './Home.css';
 import background from '../../../images/bannerbackground.png'
 import MiddleNav from '../../Shared/MiddleNav/MiddleNav';
+import ChooseCard from '../ChooseCard/ChooseCard';
+import CardHead from '../../CardHead/CardHead';
 
 
 const Home = () => {
@@ -22,6 +24,9 @@ const Home = () => {
 
             </div>
             <MiddleNav></MiddleNav>
+            <CardHead></CardHead>
+            <></>
+            <ChooseCard></ChooseCard>
 
 
 

@@ -38,7 +38,7 @@ const MiddleNav = () => {
                     <Container >
                         <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card  ">
+                                <div class="card h-100 p-2 shadow-card  border-0 ">
                                     <img src={breakfast1} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -48,7 +48,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={breakfast2} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Snake Food</h5>
@@ -58,7 +58,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={breakfast3} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -70,7 +70,7 @@ const MiddleNav = () => {
                         </div>
                         <div class="row row-cols-1 row-cols-md-3 g-4 mt-2 mb-5 ">
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={breakfast4} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -80,7 +80,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={breakfast5} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -90,7 +90,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={breakfast6} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -106,7 +106,7 @@ const MiddleNav = () => {
                     <Container >
                         <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={lunch1} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -116,7 +116,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={lunch2} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Snake Food</h5>
@@ -126,7 +126,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={lunch3} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -138,7 +138,7 @@ const MiddleNav = () => {
                         </div>
                         <div class="row row-cols-1 row-cols-md-3 g-4 mt-2 mb-5 ">
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={lunch4} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -148,7 +148,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={lunch5} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -158,7 +158,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={lunch6} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -174,7 +174,7 @@ const MiddleNav = () => {
                     <Container >
                         <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={dinner1} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -184,7 +184,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={dinner2} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Snake Food</h5>
@@ -194,7 +194,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={dinner3} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -206,7 +206,7 @@ const MiddleNav = () => {
                         </div>
                         <div class="row row-cols-1 row-cols-md-3 g-4 mt-2 mb-5 ">
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={dinner4} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -216,7 +216,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={dinner5} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -226,7 +226,7 @@ const MiddleNav = () => {
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="card h-100 p-2 shadow-card ">
+                                <div class="card h-100 p-2 shadow-card border-0 ">
                                     <img src={dinner6} className="card-img-top" alt="..." />
                                     <div className="card-body ">
                                         <h5 className="card-title">Healthy Meal Plan</h5>
@@ -238,8 +238,10 @@ const MiddleNav = () => {
                         </div>
                     </Container>
                 </TabPanel>
-
+                <button type="button" class="btn btn-secondary btn-lg ">CheckOut Your Food</button>
             </Tabs>
+
+
 
         </div>
     );
